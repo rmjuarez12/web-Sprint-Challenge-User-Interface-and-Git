@@ -34,23 +34,25 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-A: Semantic HTML is basically using HTML with more detailed tags. For example, we have tags such as `main` or `header`, which helps with determining what the inside contents of those elements contain. It also helps with browsers, as some tags helps the browser determine what to load first, and a few other features that helps with accessibility.
+**A: Semantic HTML is basically using HTML with more detailed tags. For example, we have tags such as `main` or `header`, which helps with determining what the inside contents of those elements contain. It also helps with browsers, as some tags helps the browser determine what to load first, and a few other features that helps with accessibility.**
 
 2. Name two big differences between `display: block;` and `display: inline;`.
 
-A: `display: block;` is when an element extends full width of the container and is able to use the box model features, such as margin, padding, and border, as well as specifying a height and width. `display: inline;` on the other hand, is when an element uses only the space needed and can be placed beside one another, and is not able to use some of the box model features, such as margin and padding, and you can't specify a width and height, since it will ignore it.
+**A: `display: block;` is when an element extends full width of the container and is able to use the box model features, such as margin, padding, and border, as well as specifying a height and width. `display: inline;` on the other hand, is when an element uses only the space needed and can be placed beside one another, and is not able to use some of the box model features, such as margin and padding, and you can't specify a width and height, since it will ignore it.**
 
 3. What are the 4 areas of the box model?
 
-A: The content edge, padding edge, border edge, and margin edge.
+**A: The content edge, padding edge, border edge, and margin edge.**
 
 4. While using flexbox, what axis does the following property work on: `align-items: center`?
 
-A: The cross axis
+**A: The cross axis**
 
 5. Explain why git is valuable to a team of developers.
 
-A: Git is a valuable to a team because it helps keep changes made by each developer in a separate section for them, but with the ability to merge them to the main section. This helps so that each developer's work does not overwrite each other. Also, Git helps with verion control, which means that developers can have a point of return should something go terribly while they are working.
+**A: Git is a valuable to a team because it helps keep changes made by each developer in a separate section for them, but with the ability to merge them to the main section. This helps so that each developer's work does not overwrite each other. Also, Git helps with verion control, which means that developers can have a point of return should something go terribly while they are working.**
+
+---
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
