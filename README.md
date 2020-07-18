@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-A: Semantic HTML is basically using HTML with more detailed tags. For example, we have tags such as <main> or <header>, which helps with determining what the inside contents of those elements contain. It also helps with browsers, as some tags helps the browser determine what to load first, and a few other features that helps with accessibility.
+A: Semantic HTML is basically using HTML with more detailed tags. For example, we have tags such as `main` or `header`, which helps with determining what the inside contents of those elements contain. It also helps with browsers, as some tags helps the browser determine what to load first, and a few other features that helps with accessibility.
 
 2. Name two big differences between `display: block;` and `display: inline;`.
 
